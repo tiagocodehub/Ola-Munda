@@ -1,2 +1,5 @@
-# Ola Munda
+# Olá, Mundo!
  Primeiro repositório
+
+ Aprendendo agora!
+ 
